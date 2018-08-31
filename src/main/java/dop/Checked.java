@@ -14,7 +14,6 @@ public class Checked {
         cheackHW.testSum();
     }
 
-
     public void testSum() throws Exception {
         File file = new File("testtt");
         String[] str = file.list();
